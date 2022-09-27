@@ -1,0 +1,44 @@
+{
+  "most_purchased_products": [
+    {
+      "id": 1,
+      "name": "Whiskas Adults",
+      "description": "Fish flavor",
+      "price": 30,
+      "image": "https://wongfood.vteximg.com.br/arquivos/ids/392954-750-750/Whiskas-Alimento-Seco-para-Gatos-Adultos-Sabor-Pescado-Bolsa-1-5-Kg-1-183177610.jpg?v=637406372341730000"
+    },
+    {
+      "id": 2,
+      "name": "Ricocan Bits",
+      "description": "Chicken and vegetables",
+      "price": 20,
+      "image": "https://patihuellas.pe/wp-content/uploads/2021/05/CACHORROS-POLLO.jpg"
+    }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "veterinarian": "Rodrigo Ugarte",
+      "date": "12/12/2022"
+    },
+    {
+      "id": 2,
+      "veterinarian": "María Vela Peréz",
+      "date": "12/12/2022"
+    }
+  ],
+  "veterinarians_near_you": [
+    {
+      "id": 1,
+      "name": "Alonso Poma",
+      "score": 5,
+      "image": "https://i0.wp.com/revista.weepec.com/wp-content/uploads/2021/02/vet-and-pet-EESKSLX.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Maria Del Barrio",
+      "score": 4,
+      "image": "https://imgs.deperu.com/mujeres/veterinaria_gato.jpg"
+    }
+  ]
+}
